@@ -4,7 +4,7 @@
 
 이게 되더라. 
 
-![img](./img/2.png)
+<img src="./img/2.png" alt="img" style="zoom:67%;" />
 
 
 
@@ -32,9 +32,9 @@
 
 나름 튜토리얼도 있고, 피격모션과 이펙트, 걷는 소리같은것도 구현되어있었다. 
 
-![img](./img/3.png)
+<img src="./img/3.png" alt="img" style="zoom:67%;" />
 
-![img](./img/1.png)
+<img src="./img/1.png" alt="img" style="zoom:67%;" />
 
 #### 개발 당시 문제점
 
