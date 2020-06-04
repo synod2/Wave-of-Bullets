@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 97d4e2cb5c8bdbc40ac9cddd51e63288
+timeCreated: 1448750003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fe1_stand_0
+    21300002: fe1_stand_1
+    21300004: fe1_stand_3
+    21300006: fe1_stand_4
+    21300008: fe1_fly_fall
+    21300010: fe1_fly_1
+    21300012: fe1_fly_forward_1
+    21300014: fe1_fly_forward_2
+    21300016: fe1_fly_upper
+    21300018: fe1_fly_backward_1
+    21300020: fe1_run_1
+    21300022: fe1_run_2
+    21300024: fe1_run_3
+    21300026: fe1_run_4
+    21300028: fe1_run_5
+    21300030: fe1_run_6
+    21300032: fe1_run_7
+    21300034: fe1_run_8
+    21300036: fe1_run_9
+    21300038: fe1_run_10
+    21300040: fe1_fly_2
+    21300042: fe1_fly_3
+    21300044: fe1_jump_forward_3
+    21300046: fe1_jump_forward_4
+    21300048: fe1_fly_backward_2
+    21300050: fe1_fly_backward_3
+    21300052: ido_gun_ch004_004_26
+    21300054: ido_gun_ch004_004_27
+    21300056: ido_gun_ch004_004_28
+    21300058: ido_gun_ch004_004_29
+    21300060: ido_gun_ch004_004_30
+    21300062: ido_gun_ch004_004_31
+    21300064: ido_gun_ch004_004_32
+    21300066: ido_gun_ch004_004_33
+    21300068: ido_gun_ch004_004_34
+    21300070: ido_gun_ch004_004_35
+    21300072: ido_gun_ch004_004_36
+    21300074: ido_gun_ch004_004_37
+    21300076: ido_gun_ch004_004_38
+    21300078: ido_gun_ch004_004_39
+    21300080: ido_gun_ch004_004_40
+    21300082: ido_gun_ch004_004_41
+    21300084: ido_gun_ch004_004_42
+    21300086: ido_gun_ch004_004_43
+    21300088: ido_gun_ch004_004_44
+    21300090: ido_gun_ch004_004_45
+    21300092: ido_gun_ch004_004_46
+    21300094: fe1_run_4.5
+    21300096: fe1_run_1.5
+    21300098: ido_gun_ch004_004_49
+    21300100: ido_gun_ch004_004_50
+    21300102: ido_gun_ch004_004_51
+    21300104: ido_gun_ch004_004_52
+    21300106: ido_gun_ch004_004_53
+    21300108: ido_gun_ch004_004_54
+    21300110: ido_gun_ch004_004_55
+    21300112: ido_gun_ch004_004_56
+    21300114: ido_gun_ch004_004_57
+    21300116: ido_gun_ch004_004_58
+    21300118: ido_gun_ch004_004_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fe1_stand_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 550
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_stand_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 550
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_stand_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 550
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_stand_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 550
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_fall
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 550
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .443305135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 550
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_forward_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 550
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .075000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_forward_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 550
+        width: 25
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .075000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_upper
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 553
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_backward_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 550
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 450
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 450
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 450
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 450
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 450
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 450
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 450
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 450
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 450
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 350
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 350
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_jump_forward_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 350
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .075000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_jump_forward_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 350
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .075000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_backward_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 350
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_fly_backward_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 350
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: .800000012, y: .131999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 350
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 350
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 350
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 250
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 250
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 250
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 250
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 250
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_36
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 250
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_37
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 250
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_38
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 249
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 150
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 159
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_43
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 152
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_44
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 150
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_45
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 148
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_46
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 148
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_4.5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 150
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fe1_run_1.5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 154
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 69
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_53
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 71
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_54
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 65
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_55
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 50
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 49
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_57
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 49
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_58
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 49
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ido_gun_ch004_004_0
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 445
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

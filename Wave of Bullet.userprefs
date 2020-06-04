@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Weapon\Bullet_control.cs">
+    <Files>
+      <File FileName="Assets\Player_Control\revese_player.cs" Line="30" Column="7" />
+      <File FileName="Assets\Player_Control\Player_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Weapon\Bullet_control.cs" Line="13" Column="19" />
+      <File FileName="Assets\Weapon\Weapon_fire.cs" Line="18" Column="1" />
+      <File FileName="Assets\Player_Control\fe1_stand_head.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player_Control\fe1_front_arm.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
